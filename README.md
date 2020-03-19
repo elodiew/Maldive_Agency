@@ -1,4 +1,7 @@
 # Maldive_Agency
- Projet agence de voyage créer seulement en HTML/CSS
 
-Projet de formation Développeur Web
+Travel agency project created only in HTML / CSS
+Web Developer Training Project
+
+- HTML5
+- CSS3
